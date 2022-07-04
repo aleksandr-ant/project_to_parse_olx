@@ -1,0 +1,2 @@
+async_parse = 311 links 10.92 seconds
+sinc_parse = 293 links 253.26 seconds
